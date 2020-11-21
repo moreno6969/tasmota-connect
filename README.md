@@ -1,10 +1,10 @@
 ## Tasmota (Connect)
-Tasmota (Connect) is a SmartApp & Device Type for [Samsung SmartThings](https://www.smartthings.com/), that allows you to add your [Tasmota](https://github.com/arendst/Tasmota) devices as SmartThings devices.
-
 See [SmartThings Community](https://community.smartthings.com/t/release-tasmota-connect-pure-tasmota-st-integration-real-time-status-for-sonoff-tuya-smartlife-other-esp8266-devices/187553) for feedback, questions and troubleshooting.
 
 
 [![GitHub stars](https://img.shields.io/github/stars/hongtat/tasmota-connect?style=for-the-badge)](https://github.com/hongtat/tasmota-connect/stargazers)
+Tasmota (Connect) is a SmartApp & Device Type for [Samsung SmartThings](https://www.smartthings.com/), that allows you to add your [Tasmota](https://github.com/arendst/Tasmota) devices as SmartThings devices.
+
 [![GitHub forks](https://img.shields.io/github/forks/hongtat/tasmota-connect?style=for-the-badge)](https://github.com/hongtat/tasmota-connect/network)
 [![GitHub license](https://img.shields.io/github/license/hongtat/tasmota-connect?style=for-the-badge)](https://github.com/hongtat/tasmota-connect/blob/master/LICENSE)
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/hongtat79/5usd)
